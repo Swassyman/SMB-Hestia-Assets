@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://5kegv2bceose"
+path="res://.godot/imported/Copy of smb_coin.wav-59946ff1e0f6c1c3110c8a92ae9be881.sample"
+
+[deps]
+
+source_file="res://assets/Soundfs/Copy of smb_coin.wav"
+dest_files=["res://.godot/imported/Copy of smb_coin.wav-59946ff1e0f6c1c3110c8a92ae9be881.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

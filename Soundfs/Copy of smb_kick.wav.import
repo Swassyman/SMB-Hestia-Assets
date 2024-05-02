@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://inmbcfo5u8wh"
+path="res://.godot/imported/Copy of smb_kick.wav-f84b51cec06c68c22183124b113152b8.sample"
+
+[deps]
+
+source_file="res://assets/Soundfs/Copy of smb_kick.wav"
+dest_files=["res://.godot/imported/Copy of smb_kick.wav-f84b51cec06c68c22183124b113152b8.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
