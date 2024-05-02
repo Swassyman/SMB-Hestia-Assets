@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqfd0i113wb5p"
-path="res://.godot/imported/walkright2(32).png-390e9e4ba9c39d2c3e7897ddb8cbbea4.ctex"
+uid="uid://cl0ybajkekp6r"
+path="res://.godot/imported/pixil-fentrance.png-53df5529a92629b43418e7c49c71eb14.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Chars/walkright2(32).png"
-dest_files=["res://.godot/imported/walkright2(32).png-390e9e4ba9c39d2c3e7897ddb8cbbea4.ctex"]
+source_file="res://assets/Bgs/pixil-fentrance.png"
+dest_files=["res://.godot/imported/pixil-fentrance.png-53df5529a92629b43418e7c49c71eb14.ctex"]
 
 [params]
 
